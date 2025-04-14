@@ -1,0 +1,22 @@
+# Ignore environment secrets
+.env
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files if you don't want to upload them
+*.sav
+
+# Ignore data dumps
+*.csv
+*.xlsx
+
+# Ignore logs
+*.log
+
+# Ignore Docker build artifacts
+__docker/

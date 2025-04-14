@@ -1,0 +1,14 @@
+joblib==1.4.2
+lightgbm
+matplotlib==3.6.3
+numpy==1.24.0
+pandas==1.5.3
+requests==2.31.0
+scipy==1.9.3
+seaborn==0.11.2
+shap==0.39.0
+scikit-learn==1.2.2
+sqlalchemy
+statsmodels==0.13.5
+xgboost==1.4.2
+imbalanced-learn
