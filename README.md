@@ -1,4 +1,4 @@
-# 🏢 Financial Health Prediction using Machine Learning
+#  Financial Health Prediction using Machine Learning
 
 This project builds a full machine learning pipeline to evaluate the financial health of Slovak companies based on official accounting data. The pipeline includes data retrieval, metric calculation, preprocessing, modeling, and prediction storage into a PostgreSQL database with optional support for Qlik-based reporting.
 
